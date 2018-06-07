@@ -1,0 +1,11 @@
+[ {
+  "uid" : "3a46a7d5bc9cbca6",
+  "name" : "TestDisplay.test_display",
+  "time" : {
+    "start" : 1528286894883,
+    "stop" : 1528286915502,
+    "duration" : 20619
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
